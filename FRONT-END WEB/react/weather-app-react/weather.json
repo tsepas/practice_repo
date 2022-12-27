@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 22.7328,
+        "lat": 40.6286
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 284.06,
+        "feels_like": 283.37,
+        "temp_min": 281.37,
+        "temp_max": 285.62,
+        "pressure": 1027,
+        "humidity": 83,
+        "sea_level": 1027,
+        "grnd_level": 1026
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.08,
+        "deg": 23,
+        "gust": 0.96
+    },
+    "clouds": {
+        "all": 2
+    },
+    "dt": 1672090591,
+    "sys": {
+        "type": 2,
+        "id": 19931,
+        "country": "GR",
+        "sunrise": 1672033882,
+        "sunset": 1672067249
+    },
+    "timezone": 7200,
+    "id": 734622,
+    "name": "Chalástra",
+    "cod": 200
+}
